@@ -1,0 +1,8 @@
+HELLO
+A
+B
+C
+IIT KGP
+C B
+A
+END
